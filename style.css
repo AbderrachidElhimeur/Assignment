@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(skyblue, lightgreen)
+}
+
+body{
+    background-image: url(Soccer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+.h{
+    color:  ghostwhite;
+}
+
+#title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 40px
+    
+}
+
+.p{
+    color: black;
+    font-style: italic;
+    padding: 5px;
+    border-style: outset;
+    border-width: 4px;
+    border-color: lightgrey;
+}
+
+.p{
+    background: linear-gradient(skyblue, lightgreen)
+}
+
+.ul{
+     font-size:;
+     font-weight: bold;
+    background: linear-gradient(skyblue, lightgreen)
+}
