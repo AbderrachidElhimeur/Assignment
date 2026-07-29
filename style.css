@@ -78,9 +78,12 @@ ul{
 
 a:link{
     color: white;
-    visited: white;
-    
 }
+
+a:visited{
+     color:white
+}
+
 a:hover{
     color:red;
 }
